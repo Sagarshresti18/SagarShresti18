@@ -3,7 +3,7 @@
 🎓 **Computer Science & Engineering** | 🤖 **Machine Learning & AI Enthusiast** | 📍 **Belagavi, India**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=Machine+Learning+Developer;Full+Stack+Web+Developer;AI+%26+Computer+Vision+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=600&lines=Machine+Learning+Developer;Machine+Learning+Developer;AI+%26+Computer+Vision+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 ---
@@ -41,7 +41,6 @@ I'm a passionate **Computer Science & Engineering** student with a strong focus 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
@@ -90,12 +89,8 @@ I'm a passionate **Computer Science & Engineering** student with a strong focus 
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Sagarshresti18/Sagarshresti18/output/github-contribution-grid-snake.svg)
-
-<!--
-Alternative if snake doesn't work:
 ![Snake animation](https://github.com/Sagarshresti18/Sagarshresti18/blob/output/github-contribution-grid-snake.svg)
--->
+
 
 </div>
 
