@@ -85,17 +85,6 @@ I'm a passionate **Computer Science & Engineering** student with a strong focus 
 
 ---
 
-## 🐍 GitHub Snake Game
-
-<div align="center">
-
-![Snake animation](https://github.com/Sagarshresti18/Sagarshresti18/blob/output/github-contribution-grid-snake.svg)
-
-
-</div>
-
----
-
 
 ## 🎯 Current Focus Areas
 
