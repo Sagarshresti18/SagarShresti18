@@ -84,29 +84,15 @@ I'm a passionate **Computer Science & Engineering** student with a strong focus 
 
 </div>
 
----
-
-## 🐍 GitHub Snake Game
+## 📈 Contribution Activity
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Sagarshresti18/Sagarshresti18/output/github-contribution-grid-snake.svg)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagarshresti18&theme=tokyo-night&hide_border=true)
 
 </div>
 
----
 
-## 🎮 Coding Challenge Stats
-
-<div align="center">
-
-![Leetcode Stats](https://leetcard.jacoblin.cool/Sagarshresti18?theme=dark&font=Fira%20Code)
-
-![Codewars Badge](https://www.codewars.com/users/Sagarshresti18/badges/large)
-
-</div>
-
----
 
 ## 🎯 Current Focus Areas
 
