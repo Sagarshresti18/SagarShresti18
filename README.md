@@ -84,14 +84,22 @@ I'm a passionate **Computer Science & Engineering** student with a strong focus 
 
 </div>
 
-## 📈 Contribution Activity
+---
+
+## 🐍 GitHub Snake Game
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagarshresti18&theme=tokyo-night&hide_border=true)
+![Snake animation](https://raw.githubusercontent.com/Sagarshresti18/Sagarshresti18/output/github-contribution-grid-snake.svg)
+
+<!--
+Alternative if snake doesn't work:
+![Snake animation](https://github.com/Sagarshresti18/Sagarshresti18/blob/output/github-contribution-grid-snake.svg)
+-->
 
 </div>
 
+---
 
 
 ## 🎯 Current Focus Areas
