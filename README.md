@@ -82,13 +82,27 @@ I'm a passionate **Computer Science & Engineering** student with a strong focus 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarshresti18&layout=compact&theme=tokyonight&hide_border=true)
 
+</div>
 
+---
 
-## 📈 Contribution Activity
+## 🐍 GitHub Snake Game
 
 <div align="center">
 
-![3D Contribution](https://github.com/Sagarshresti18/Sagarshresti18/blob/main/profile-3d-contrib/profile-gitblock.svg)
+![Snake animation](https://raw.githubusercontent.com/Sagarshresti18/Sagarshresti18/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🎮 Coding Challenge Stats
+
+<div align="center">
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Sagarshresti18?theme=dark&font=Fira%20Code)
+
+![Codewars Badge](https://www.codewars.com/users/Sagarshresti18/badges/large)
 
 </div>
 
