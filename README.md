@@ -82,25 +82,13 @@ I'm a passionate **Computer Science & Engineering** student with a strong focus 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sagarshresti18&layout=compact&theme=tokyonight&hide_border=true)
 
-</div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sagarshresti18&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
-
-</div>
-
----
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sagarshresti18&theme=tokyo-night&hide_border=true)
+![3D Contribution](https://github.com/Sagarshresti18/Sagarshresti18/blob/main/profile-3d-contrib/profile-gitblock.svg)
 
 </div>
 
